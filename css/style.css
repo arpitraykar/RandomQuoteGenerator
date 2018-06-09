@@ -1,0 +1,29 @@
+.card {
+    width: 45%;
+    margin: auto;
+}
+
+.fa {
+    color: rgb(0, 166, 255);
+    font-size: 30px;
+    padding-right: 20px;
+}
+
+.btn {
+    border-radius: 0%;
+    background-color: rgb(66, 138, 198);
+    border-radius: 0px;
+}
+
+.display4 {
+    font-family: 'Poppins', sans-serif;
+    color: rgb(0, 166, 255);
+}
+
+.blockquote {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+a {
+    text-decoration: none;
+}
